@@ -32,9 +32,11 @@ GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+The Codepath videos were really informative, so I didn't have a lot of problems! My Android Studio interface is a little bit different than the one in the videos so there were a few minor navigational differences I had to figure out, but it was fine. I am excited for this class!
 
 ## License
+
+I am not sure what this part of the README means - what should I fill in for the copyright information for future projects?
 
     Copyright [yyyy] [name of copyright owner]
 
